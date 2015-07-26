@@ -1,0 +1,23 @@
+{
+  "name": "jquery-module",
+  "version": "1.0.0",
+  "description": "Learn Jquery",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "gulp": "^3.9.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/raphael27atm/jquery-module.git"
+  },
+  "author": "Marlon Raphael",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/raphael27atm/jquery-module/issues"
+  },
+  "homepage": "https://github.com/raphael27atm/jquery-module"
+}
